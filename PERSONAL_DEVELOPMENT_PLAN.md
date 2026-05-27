@@ -7,14 +7,14 @@
 ## 💡 Strengths & Weaknesses
 
 ### ✨ Your Strengths
-- **Strength 1:** 
-- **Strength 2:** 
-- **Strength 3:** 
+- Strong self‑awareness and reflection  
+- Consistent follow‑through once routines are set  
+- Clear communication and structured thinking  
 
 ### 🎯 Areas for Growth
-- **Area 1:** 
-- **Area 2:** 
-- **Area 3:** 
+- Balancing ambition with realistic timelines  
+- Staying flexible when circumstances shift  
+- Building confidence in new skill areas  
 
 ---
 
@@ -22,35 +22,36 @@
 
 > **S**pecific • **M**easurable • **A**chievable • **R**elevant • **T**ime-bound
 
-### 🥇 Goal 1:
+### Goal 1: Strengthen System Design Skills (Professional)
+- **Specific:** Build system design knowledge for senior engineering roles and future product transition.  
+- **Measurable:** One topic per week, two mock interviews per month, documented notes.  
+- **Achievable:** Fits weekly schedule; peers and online platforms available.  
+- **Relevant:** Supports long‑term engineering and product aspirations.  
+- **Time‑bound:** Twelve months with quarterly check‑ins.
 
-| Component | Details |
-|-----------|---------|
-| 🎯 **Specific** | What exactly do you want to accomplish? |
-| 📊 **Measurable** | How will you measure success? |
-| 💪 **Achievable** | What resources or support do you need? |
-| ❤️ **Relevant** | Why is this goal important to you? |
-| ⏰ **Time-bound** | When will you complete this goal? |
+**Action Plan:** Weekly study blocks, consistent mock interviews, progress tracking.
 
-### 🥈 Goal 2:
+---
 
-| Component | Details |
-|-----------|---------|
-| 🎯 **Specific** | What exactly do you want to accomplish? |
-| 📊 **Measurable** | How will you measure success? |
-| 💪 **Achievable** | What resources or support do you need? |
-| ❤️ **Relevant** | Why is this goal important to you? |
-| ⏰ **Time-bound** | When will you complete this goal? |
+### Goal 2: Improve Korean to Converse with Aunt (Personal)
+- **Specific:** Complete Yonsei Books 2–4 and hold a natural ten‑minute conversation.  
+- **Measurable:** One chapter per week, workbook completion, periodic speaking checks.  
+- **Achievable:** Fits routine; structured curriculum.  
+- **Relevant:** Strengthens family connection and cultural understanding.  
+- **Time‑bound:** Twelve months.
 
-### 🥉 Goal 3:
+**Action Plan:** Study 3–4 times weekly, record practice, track chapter progress.
 
-| Component | Details |
-|-----------|---------|
-| 🎯 **Specific** | What exactly do you want to accomplish? |
-| 📊 **Measurable** | How will you measure success? |
-| 💪 **Achievable** | What resources or support do you need? |
-| ❤️ **Relevant** | Why is this goal important to you? |
-| ⏰ **Time-bound** | When will you complete this goal? |
+---
+
+### Goal 3: Run a 5K in 30 Minutes (Personal Health)
+- **Specific:** Train using treadmill interval workouts.  
+- **Measurable:** Log each session; monthly timed 5K.  
+- **Achievable:** Three after‑work sessions weekly.  
+- **Relevant:** Supports long‑term health and stress management.  
+- **Time‑bound:** Six months.
+
+**Action Plan:** Follow interval plan, monitor pace, adjust intensity as needed.
 
 ---
 
@@ -58,63 +59,24 @@
 
 ### 🔧 Skills to Master
 
-| Skill | Current Level | Target | Resources | Progress |
-|-------|---|---|---|---|
-| [Skill 1] | 🟡 Intermediate | 🟢 Advanced | [Courses, Books] | ▓▓░░░░░░░░ |
-| [Skill 2] | 🔴 Beginner | 🟡 Intermediate | [Mentors, Practice] | ▓░░░░░░░░░ |
-| [Skill 3] | 🟡 Intermediate | 🟢 Advanced | [Workshops, Projects] | ▓▓▓░░░░░░░ |
+- System Design (Intermediate → Advanced)  
+- Korean Language (Beginner → Intermediate High)  
+- Running & Fitness (Intermediate → Advanced)
 
 ### 🌐 Learning Resources
 
-**📖 Online Platforms**
-- Coursera • LinkedIn Learning • Udemy • Skillshare
-
-**📕 Recommended Books**
-- 
-- 
-
-**👥 Mentorship & Community**
-- 
-- 
-
-**🎧 Other Resources**
-- Podcasts • Webinars • Conferences • Workshops
+- Grokking, YouTube walkthroughs, mock interviews  
+- Yonsei Korean series, TalkToMeInKorean  
+- Treadmill interval plans, fitness apps
 
 ---
 
 ## 📅 Timeline & Milestones
 
-### 🗓️ Quarterly Roadmap
-
-```
-┌─────────────────────────────────────────────────┐
-│  Q2 2026 - SPRING                              │
-│  🎯 [Milestone 1]: [Description]               │
-│  ✓ Goal Association: [Goal]                    │
-│  Status: ☐ Not Started  ☐ In Progress  ☐ Done│
-└─────────────────────────────────────────────────┘
-
-┌─────────────────────────────────────────────────┐
-│  Q3 2026 - SUMMER                              │
-│  🎯 [Milestone 2]: [Description]               │
-│  ✓ Goal Association: [Goal]                    │
-│  Status: ☐ Not Started  ☐ In Progress  ☐ Done│
-└─────────────────────────────────────────────────┘
-
-┌─────────────────────────────────────────────────┐
-│  Q4 2026 - FALL                                │
-│  🎯 [Milestone 3]: [Description]               │
-│  ✓ Goal Association: [Goal]                    │
-│  Status: ☐ Not Started  ☐ In Progress  ☐ Done│
-└─────────────────────────────────────────────────┘
-
-┌─────────────────────────────────────────────────┐
-│  Q1 2027 - WINTER                              │
-│  🎯 [Milestone 4]: [Description]               │
-│  ✓ Goal Association: [Goal]                    │
-│  Status: ☐ Not Started  ☐ In Progress  ☐ Done│
-└─────────────────────────────────────────────────┘
-```
+- **Q2 2026:** Establish weekly system design study routine  
+- **Q3 2026:** Complete Yonsei Book 2  
+- **Q4 2026:** Run a 5K under 33 minutes  
+- **Q1 2027:** Hold ten‑minute Korean conversation
 
 ### ⏳ Key Dates
 | Event | Date |
@@ -127,82 +89,26 @@
 
 ---
 
-## 🏆 Certifications & Credentials
+**Why These Goals Matter:**  
+I want to grow in ways that feel meaningful, strengthen relationships, and build skills that support my long‑term career direction.
 
-### 🎓 Current Certifications
-- **[Certification Name]** — [Organization] ⭐ *[Year]*
-- **[Certification Name]** — [Organization] ⭐ *[Year]*
+**3–5 Year Vision:**  
+A good lifestyle that blends a job with technical depth and product thinking, stronger family connections, and a healthier daily routine.
 
-### 🚀 Target Certifications
+## Reflection
+Feedback from classmates and the professor emphasized clarity, flexibility, and breaking goals into manageable steps. I realized that different goals require different types of motivation. Some rely on measurable data, while others depend on personal values or internal accountability. This helped me refine my goals so they remain realistic, meaningful, and aligned with how I naturally stay motivated.
 
-| Certification | Provider | Target Date | Value |
-|---|---|---|---|
-| [Cert Name] | [Provider] | [Date] | Advances [Goal/Career Path] |
-| [Cert Name] | [Provider] | [Date] | Advances [Goal/Career Path] |
-| [Cert Name] | [Provider] | [Date] | Advances [Goal/Career Path] |
-
----
-
-## 🔥 Your "Why" — Stay Motivated
-
-### 💭 Core Purpose
-
-> *What drives you? Why does this personal development matter?*
-
-[Share your personal motivation. What are your deepest career aspirations and values?]
-
-### 🌟 Your Vision (3-5 Years)
-
-**Where do you see yourself?**
-
-[Describe your ideal professional and personal future. Paint a vivid picture of success.]
-
-### 💪 The Impact
-
-How will achieving these goals shape your:
-
-- **🎯 Career** — [Growth trajectory and opportunities]
-- **😊 Fulfillment** — [Personal satisfaction and joy]
-- **🌍 Contribution** — [Impact on your field and community]
-- **❤️ Life** — [Overall quality of life and values alignment]
-
----
-
-## 📊 Progress Tracking
-
-### 📈 Monthly Check-in Tracker
-
-- ☐ Jan  ☐ Feb  ☐ Mar  ☐ Apr  ☐ May  ☐ Jun
-- ☐ Jul  ☐ Aug  ☐ Sep  ☐ Oct  ☐ Nov  ☐ Dec
-
-### 📝 Quarterly Reflections
-
-**Q2 2026 — What Did You Learn?**
-[Reflect on wins, challenges, and adjustments needed]
-
-**Q3 2026 — Progress Update**
-[Reflect on wins, challenges, and adjustments needed]
-
-**Q4 2026 — Year Review**
-[Reflect on wins, challenges, and adjustments needed]
-
----
-
-## 🤝 Your Support System
-
-| Role | Name | Contact | Focus Area |
-|------|------|---------|-----------|
-| 👥 Accountability Partner | [Name] | [Contact] | [Area] |
-| 🎓 Mentor/Coach | [Name] | [Contact] | [Area] |
-| 👨‍👩‍👧‍👦 Personal Support | [Person] | [Contact] | [Area] |
-
+## Support System
+- Peer engineer: system design practice  
+- Senior colleague: career development  
+- Family: Korean conversation practice  
 ---
 
 <div align="center">
 
 ### ✨ Remember: Small steps daily lead to big dreams achieved ✨
 
-**Last Updated:** 2026-04-17 | **Next Review:** 2026-04-24
+**Last Updated:** 2026-05-26 | **Next Review:** 2026-06-26
 
 ---
 
